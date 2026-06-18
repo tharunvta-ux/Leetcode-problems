@@ -1,4 +1,4 @@
-class Solution {
+git log --onelineclass Solution {
     public int[] twoSum(int[] nums, int target) {
         int n = nums.length;
 
