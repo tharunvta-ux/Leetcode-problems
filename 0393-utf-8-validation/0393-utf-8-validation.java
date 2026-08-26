@@ -15,7 +15,7 @@ class Solution {
             }
             else
             {
-             if((a[i]&0b10000000)==0b00000000)
+             if((a[i]&0b10000000)==0)
                 {
                     rem=0;
                 }
@@ -27,7 +27,7 @@ class Solution {
                 {
                     rem=2;
                 }
-                   else if((a[i]&0b11111000)==0b11100000)
+                   else if((a[i]&0b11111000)==0b11110000)
                 {
                     rem=3;
                 }
