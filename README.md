@@ -17,6 +17,7 @@
 | [0904-fruit-into-baskets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@
 | [0056-merge-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
