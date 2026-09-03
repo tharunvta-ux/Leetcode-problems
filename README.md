@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -105,4 +106,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
