@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0056-merge-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0057-insert-interval/) | Medium |
+| [0078-subsets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0078-subsets/) | Medium |
 | [0204-count-primes](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0393-utf-8-validation](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0393-utf-8-validation/) | Medium |
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0052-n-queens-ii/) | Hard |
+| [0078-subsets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0078-subsets/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +39,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0078-subsets/) | Medium |
 | [0393-utf-8-validation](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0393-utf-8-validation/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Math
