@@ -8,6 +8,7 @@
 | [0204-count-primes](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0393-utf-8-validation](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0393-utf-8-validation/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -80,4 +81,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0204-count-primes/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 <!---LeetCode Topics End-->
