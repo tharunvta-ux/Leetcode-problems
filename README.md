@@ -38,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0393-utf-8-validation](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0393-utf-8-validation/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
