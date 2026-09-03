@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0393-utf-8-validation](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0393-utf-8-validation/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -31,5 +32,14 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
