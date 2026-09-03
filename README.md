@@ -8,6 +8,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0393-utf-8-validation](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0393-utf-8-validation/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -34,12 +35,15 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
