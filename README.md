@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0039-combination-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0039-combination-sum/) | Medium |
 | [0056-merge-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0057-insert-interval/) | Medium |
 | [0078-subsets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0078-subsets/) | Medium |
@@ -30,6 +31,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0039-combination-sum/) | Medium |
 | [0052-n-queens-ii](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0078-subsets/) | Medium |
 ## Algorithm X
