@@ -122,4 +122,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
