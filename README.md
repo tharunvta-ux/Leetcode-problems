@@ -26,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0575-distribute-candies](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -125,9 +126,15 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
