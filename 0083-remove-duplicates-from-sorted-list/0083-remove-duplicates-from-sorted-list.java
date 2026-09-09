@@ -9,17 +9,17 @@
  * }
  */
 class Solution {
-   static Map<Integer,Integer>m=new HashMap<>();
+//    static Map<Integer,Integer>m=new HashMap<>();
     ListNode l;
-    public void traverse(ListNode head)
-    {
-        ListNode temp=head;
-        while(temp!=null)
-        {
-            m.put(temp.val,m.getOrDefault(temp.val,0)+1);
-            temp=temp.next;
-        }
-    }
+    // public void traverse(ListNode head)
+    // {
+    //     ListNode temp=head;
+    //     while(temp!=null)
+    //     {
+    //         m.put(temp.val,m.getOrDefault(temp.val,0)+1);
+    //         temp=temp.next;
+    //     }
+    // }
     public void add(int data)
     {
         ListNode newNode=new ListNode(data,null);
@@ -41,19 +41,24 @@ class Solution {
     public ListNode deleteDuplicates(ListNode head) {
 
         l=null;
-        traverse(head);
-        ListNode temp=head;
-        while(temp!=null)
+      if(head==null)
+      {
+        return l;
+      }
+        ListNode curr=head;
+        ListNode prev=head;
+        prev=prev.next;
+        while(prev!=null)
         {
-           
-            if(m.containsKey(temp.val))
+            if(curr.val!=prev.val)
             {
-
-                add(temp.val);
+                add(curr.val);
             }
-            m.remove(temp.val);
-            temp=temp.next;
+            curr=curr.next;
+            prev=prev.next;
         }
+add(curr.val);
+        
      return l;   
     }
 
