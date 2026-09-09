@@ -127,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
