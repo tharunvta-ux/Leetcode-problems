@@ -52,6 +52,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0204-count-primes/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
