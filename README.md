@@ -16,6 +16,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0575-distribute-candies](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0695-max-area-of-island](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -146,4 +147,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0695-max-area-of-island/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0695-max-area-of-island/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0695-max-area-of-island/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
