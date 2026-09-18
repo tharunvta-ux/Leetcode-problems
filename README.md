@@ -20,6 +20,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0733-flood-fill/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0994-rotting-oranges](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -158,6 +159,7 @@
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +169,5 @@
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
