@@ -152,17 +152,20 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0684-redundant-connection](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0684-redundant-connection](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0684-redundant-connection](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0695-max-area-of-island/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -170,4 +173,8 @@
 | [0695-max-area-of-island](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0994-rotting-oranges/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0684-redundant-connection](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0684-redundant-connection/) | Medium |
 <!---LeetCode Topics End-->
