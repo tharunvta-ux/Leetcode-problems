@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0057-insert-interval/) | Medium |
 | [0078-subsets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0078-subsets/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0204-count-primes](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0393-utf-8-validation](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0393-utf-8-validation/) | Medium |
@@ -118,6 +119,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## String
 | Problem Name | Difficulty |
