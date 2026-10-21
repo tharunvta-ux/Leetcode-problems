@@ -15,6 +15,7 @@
 | [0393-utf-8-validation](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0393-utf-8-validation/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0455-assign-cookies](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0575-distribute-candies](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0695-max-area-of-island/) | Medium |
@@ -106,17 +107,20 @@
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0455-assign-cookies](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0455-assign-cookies](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +147,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0455-assign-cookies](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
