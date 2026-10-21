@@ -4,12 +4,11 @@ class Solution:
         g.sort()
         s.sort()
 
-        i = 0  # child index
-        j = 0  # cookie index
+        i = 0  
+        j = 0  
 
         while i < len(g) and j < len(s):
             if s[j] >= g[i]:
-                i += 1  # satisfy this child
-            j += 1  # use this cookie
-
+                i += 1  
+            j += 1  
         return i
