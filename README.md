@@ -34,6 +34,7 @@
 | [0141-linked-list-cycle](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0575-distribute-candies](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Backtracking
@@ -74,6 +75,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0981-time-based-key-value-store](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -205,4 +208,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0981-time-based-key-value-store](https://github.com/tharunvta-ux/Leetcode-problems/tree/main/0981-time-based-key-value-store/) | Medium |
 <!---LeetCode Topics End-->
